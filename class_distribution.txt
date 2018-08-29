@@ -1,0 +1,9 @@
+SubA - 3 - LRF
+subB - 3 - LRF
+subC - 3 - LRF
+SubA + SubC - 3 - LRF
+SubD - 2 - LR
+SubE - 2 - LR
+SubF - 2 - LR
+SubG - 2 - LR
+SubH - 2 - LR

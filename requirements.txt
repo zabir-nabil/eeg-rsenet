@@ -1,0 +1,6 @@
+Matlab 2015a
+conda==4.3.21
+tensorflow==1.7.0
+keras==2.1.5
+sklearn==0.18.1
+dtcwt==0.12.0

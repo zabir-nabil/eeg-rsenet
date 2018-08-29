@@ -1,0 +1,9 @@
+1. Keep the subjects' mat files in the working dir.
+2. Run dwt_denoise.m
+3. result.ipynb
+4. result_rsenet.ipynb
+5. result_all.ipynb
+6. result_rsenet_all.ipynb
+
+Dataset URL: http://www.bsp.brain.riken.jp/~qibin/homepage/Datasets.html
+[The dataset was used with permission from the owner]
