@@ -1,0 +1,4 @@
+1. 'minimal matlab' contains matlab implementations of eeg feature extraction, classification, holdout, cross-validation
+2. eeg 1D cnn ('minimal matlab')
+3. eeg stft cnn ('STFT_CNN_benchmark.ipynb')
+4. rse-net with cross-validation (with comparison)

@@ -1,0 +1,8 @@
+1. Take matlab path to current working directory.
+2. Load SubA_5chan_3LRF.mat file. 
+3. Run dataset_formation.m script [channel separation]
+4. Run dwt_generator.m script [dwt denoising]
+5. Run feature_extraction.m script [feature extraction phase, 10 features (internally calls feature_set_gen.m)]
+6. If using holdout (train, test) then run run_classifiers.m
+   [uses random shuffling each time, so accuracy will change]
+7. If using cross validation, then run run_classifiers_cv.m
