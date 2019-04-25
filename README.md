@@ -25,7 +25,7 @@ title = "Motor Imagery EEG Classification Using Random Subspace Ensemble Network
 
 author = "Zabir Al Nazi, A.B.M. Aowlad Hossain, Md. Monirul Islam",
 
-journal = "International Journal Bioautomation"
+journal = "International Journal Bioautomation",
 
 year = "2019"
 }
