@@ -20,15 +20,6 @@ BibTex:
 }
 ```
 
+https://bit.ly/31LPRLJ
 
-```
-SUBMITTED {
-title = "Motor Imagery EEG Classification Using Random Subspace Ensemble Network with Variable Length Feature Sampling",
 
-author = "Zabir Al Nazi, A.B.M. Aowlad Hossain, Md. Monirul Islam",
-
-journal = "International Journal Bioautomation",
-
-year = "2019"
-}
-```
