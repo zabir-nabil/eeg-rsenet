@@ -1,25 +1,29 @@
 # eeg-rsenet
-Motor Imagery EEG Signal Classification Using Random Subspace Ensemble Network
+Motor Imagery EEG Classification Using Random Subspace Ensemble Network with Variable Length Features
 
 email: zabiralnazi@yahoo.com
 
 Running Matlab Scripts: https://youtu.be/AeRMO98-URc
 
-Citation: Zabir Al Nazi. (2018, November). zabir-nabil/eeg-rsenet: EEG RSE-Net https://github.com/zabir-nabil/eeg-rsenet  http://doi.org/10.5281/zenodo.2650330
-
-BibTex: 
-
+Citation(s): 
 ```
-@ONLINE {zabir-rsenet,
-    author = "Zabir Al Nazi",
-    title  = "EEG RSE-Net",
-    month  = "nov",
-    year   = "2018",
-    doi = {10.5281/zenodo.2650330},
-    url    = "https://github.com/zabir-nabil/eeg-rsenet"
+Zabir Al Nazi, A. B. M. Aowlad Hossain, Md. Monirul Islam (2021) Motor Imagery EEG Classification Using Random Subspace Ensemble Network with Variable Length Features, Int J Bioautomation, 25 (1), 13-24, doi: 10.7546/ijba.2021.25.1.000611
+```
+```
+Shovon, T. H., Al Nazi, Z., Dash, S., & Hossain, M. F. (2019, September). Classification of motor imagery eeg signals with multi-input convolutional neural network by augmenting stft. In 2019 5th International Conference on Advances in Electrical Engineering (ICAEE) (pp. 398-403). IEEE.
+```
+BibTex:
+
+http://biomed.bas.bg/bioautomation/2021/vol_25.1/toc.html
+doi: 10.7546/ijba.2021.25.1.000611
+
+@inproceedings{shovon2019classification,
+  title={Classification of motor imagery eeg signals with multi-input convolutional neural network by augmenting stft},
+  author={Shovon, Tanvir Hasan and Al Nazi, Zabir and Dash, Shovon and Hossain, Md Foisal},
+  booktitle={2019 5th International Conference on Advances in Electrical Engineering (ICAEE)},
+  pages={398--403},
+  year={2019},
+  organization={IEEE}
 }
-```
-
-https://bit.ly/31LPRLJ
 
 
